@@ -1,0 +1,31 @@
+#moneybg{
+    background-image: url(money.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+tr td {
+    background-color: black;
+}
+tr td button {
+    height: 70px;
+    width: 70px;
+}
+.diva {
+    height: 400px;
+    width: 400px;
+}
+.diva button {
+    height: 20px;
+    width: 50px;
+}
+.diva #disp {
+    margin: auto;
+    width: 80%;
+}
+.diva #input {
+    margin: auto; 
+    width: 50%; 
+    height: 50%; 
+    padding-top: 150px;
+}
